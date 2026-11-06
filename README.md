@@ -21,4 +21,3 @@ Sexto laboratório feito em aula, um Plataformer 3D.
 **Marcos Costa,** 
 **Dinis Teixeira** <br>
 Laboratório - Ano letivo 2026/2027
-# Lab06
